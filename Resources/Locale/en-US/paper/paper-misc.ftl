@@ -57,7 +57,7 @@ book-text-agrichemkit-manual = Thank you for choosing the safe-for-all-ages Nano
 # Harmony changes - Adds bungo fruit recipe and mention of item to combat bakery kit
 book-text-combat-bakery-kit = Thank you for choosing our combat bakery kit!
       Enclosed are two (2) Cybersun-patented Throwing Croissants, one (1) bungo fruit, and one (1) patent-pending Baguette Sword.
-      The included Donk Co. oven board can construct a oven capable of baking more weapons. #imp
+      The included Donk Co. oven board can construct a oven capable of baking more weapons. # imp
       Just like the baked weapons, be sure to eat this note after use. Good luck, agent.
 
       Baguette Sword Recipe:
